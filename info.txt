@@ -1,0 +1,12 @@
+#Git tutorials
+
+GIT ? 
+
+- Git help us to manage different version of our code and collaborate with other developers.
+- Git is open-source.
+- It allow multiple developers to work on project simultaneously.
+
+Concepts:
+1 - Basics of Linux Commands
+2 - Git Bash / cmd prompt
+3 - GitHub [hosting]
